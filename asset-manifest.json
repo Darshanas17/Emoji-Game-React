@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Emoji-Game-React/static/css/main.f855e6bc.css",
-    "main.js": "/Emoji-Game-React/static/js/main.64682934.js",
+    "main.css": "/Emoji-Game-React/static/css/main.54fa9cdc.css",
+    "main.js": "/Emoji-Game-React/static/js/main.94c44046.js",
     "static/js/453.fca10bf4.chunk.js": "/Emoji-Game-React/static/js/453.fca10bf4.chunk.js",
-    "static/media/logo.svg": "/Emoji-Game-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Emoji-Game-React/index.html",
-    "main.f855e6bc.css.map": "/Emoji-Game-React/static/css/main.f855e6bc.css.map",
-    "main.64682934.js.map": "/Emoji-Game-React/static/js/main.64682934.js.map",
+    "main.54fa9cdc.css.map": "/Emoji-Game-React/static/css/main.54fa9cdc.css.map",
+    "main.94c44046.js.map": "/Emoji-Game-React/static/js/main.94c44046.js.map",
     "453.fca10bf4.chunk.js.map": "/Emoji-Game-React/static/js/453.fca10bf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.64682934.js"
+    "static/css/main.54fa9cdc.css",
+    "static/js/main.94c44046.js"
   ]
 }
